@@ -1,7 +1,8 @@
 name: on_visibility_detector_extension
 description: "An list on extension to detect when widget appear or disappear"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Kiruel/on_visibility_detector_extension
+repository: https://github.com/Kiruel/on_visibility_detector_extension
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
